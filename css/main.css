@@ -2360,10 +2360,10 @@ hr {
   height: 14px;
   line-height: 14px;
   display: block;
-  background: none;
+  background:transparent;
   opacity: 1;
   font-size: 12px;
-  color: #fff;
+  color: transparent;;
   font-weight: 400;
   text-align: center;
   pointer-events: none;
@@ -2385,7 +2385,7 @@ hr {
 .section.main-slider .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
 .section.full-slider .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
 .section.half-slider .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  color: #fff;
+  color: #eb6165;;
   background: #eb6165;
 }
 
