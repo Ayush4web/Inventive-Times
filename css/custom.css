@@ -1,0 +1,18 @@
+.wordfix{
+    font-size: 5rem;
+}
+.wordfix2{
+    transform: translateY(50px);
+}
+
+@media (max-width:500px) {
+    .wordfix{
+        font-size: 3rem;
+    }
+
+    .fixy{
+        margin-top: 30rem;
+        margin-left: 3rem;
+    }
+    
+}
