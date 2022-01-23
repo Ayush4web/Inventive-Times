@@ -738,7 +738,9 @@ input[type="radio"] {
 .wp-block-embed figcaption {
   padding: 10px;
 }
-
+.mt{
+  margin-top: 400px !important;
+}
 select,
 .custom-select {
   background-color: #fff;
@@ -2595,7 +2597,7 @@ hr {
 
 .section.section-inner {
   margin: 200px 0;
-  margin-top: 400px;
+ 
 }
 
 .elementor-section .section.section-inner {
