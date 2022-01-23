@@ -2164,7 +2164,8 @@ hr {
 .section.main-slider .slide-titles .label {
   position: relative;
   margin-bottom: 30px;
-  font-size: 12px;
+  font-size: 16px;
+  font-weight: 500;
   text-transform: uppercase;
   opacity: 0.85;
 }
@@ -6603,4 +6604,14 @@ a.wp-block-button__link {
   .dark-first .section.half-slider .swiper-buttons .swiper-button-next {
     filter: brightness(0);
   }
+}
+
+
+.cstm{
+  text-align: center;
+  margin-bottom:1rem ;
+}
+.l{
+
+  
 }
