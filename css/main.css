@@ -6611,7 +6611,18 @@ a.wp-block-button__link {
   text-align: center;
   margin-bottom:1rem ;
 }
-.l{
+.cimg{
+  height: 28rem; position: absolute; right: 0; top: 5rem;
+}
 
-  
+@media (max-width:900px) {
+
+  .cimg{
+    position: relative;
+    top: 2rem;
+  }
+  .imgf{
+    transform: translateX(0) !important;
+    margin: 2rem 0;
+  }
 }
